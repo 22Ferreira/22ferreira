@@ -177,6 +177,27 @@ Time & attendance control system
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+**🎓 quizztutor-backend-api**
+
+AI-powered quiz tutor platform — TCC
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+✔ JWT auth + role-based access<br/>
+✔ AI tutor (Decision Tree / RAG / LLM)<br/>
+✔ Live quiz sessions<br/>
+✔ Alembic migrations + Swagger docs
+
+![](https://img.shields.io/badge/●_Building-0d6efd?style=flat-square)
+[![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/quizztutor-backend-api)
+
+</td>
+</tr>
 </table>
 </div>
 
