@@ -1,36 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=Jose%20Ferreira&fontSize=50&fontColor=fff&fontAlignY=40&desc=Backend%20Engineer%20%7C%20REST%20API%20Specialist&descSize=18&descAlignY=62&descColor=cfe2ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=José%20Ferreira&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%7C%20REST%20API%20Specialist&descSize=18&descAlignY=62&descColor=90e0ef" width="100%"/>
 
 <br/>
 
-> *"Escolha um trabalho que você ame e não terá que trabalhar um único dia em sua vida."*
-> — Confúcio
+> *"Choose a job you love, and you will never have to work a day in your life."*
+> — Confucius
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-ferreira-559587236)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/22Ferreira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-ferreira-559587236)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira)
 
 </div>
 
 ---
 
-```yaml
-name:      Jose Ferreira
-role:      Backend Engineer | REST API Specialist
-education: Information Systems — in progress
-company:   Ministerio Publico do Para (Web Dev Intern)
-location:  Para, Brazil 🇧🇷
+## 👨‍💻 About me
 
-stack:
-  languages:  [Python, JavaScript, Java, C]
-  frameworks: [FastAPI, Django, Node.js, Express, Spring Boot, NestJS]
-  databases:  [PostgreSQL, MySQL, MongoDB]
-  security:   [Keycloak, OAuth2, JWT]
-  devops:     [Git, GitHub, Docker, OpenShift]
-  learning:   [Microservices, Kubernetes, RabbitMQ, GitHub Actions]
+```json
+{
+  "name":      "Jose Ferreira",
+  "role":      "Backend Engineer | REST API Specialist",
+  "education": "Information Systems — in progress",
+  "company":   "Ministerio Publico do Para — Web Dev Intern",
+  "location":  "Para, Brazil",
+
+  "stack": {
+    "languages":  ["Python", "JavaScript", "Java", "C"],
+    "frameworks": ["FastAPI", "Django", "Node.js", "Express", "Spring Boot", "NestJS"],
+    "databases":  ["PostgreSQL", "MySQL", "MongoDB"],
+    "security":   ["Keycloak", "OAuth2", "JWT"],
+    "devops":     ["Git", "GitHub", "Docker", "OpenShift"]
+  },
+
+  "learning": ["Microservices", "Kubernetes", "RabbitMQ", "GitHub Actions"],
+
+  "focus": "Building robust, secure and well-documented REST APIs"
+}
 ```
 
 ---
@@ -39,42 +49,42 @@ stack:
 
 <div align="center">
 
-**Languages**
+`Languages`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-**Frameworks & APIs**
+`Frameworks & APIs`
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-**Databases**
+`Databases`
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Security & IAM**
+`Security & IAM`
 
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**DevOps & Tools**
+`DevOps & Tools`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=red-hat-open-shift&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
@@ -84,8 +94,9 @@ stack:
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=22Ferreira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22Ferreira&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=en"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=22Ferreira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=en"/>
+&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22Ferreira&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=en"/>
 
 <br/>
 
@@ -105,101 +116,197 @@ stack:
 
 ## 🚀 Featured Projects
 
+<div align="center">
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🔐 api-auth-jwt</h3>
-      <p>REST API with full JWT authentication — FastAPI · PostgreSQL</p>
-      <ul>
-        <li>User registration and login with bcrypt</li>
-        <li>Access token + refresh token</li>
-        <li>Route protection middleware</li>
-        <li>Auto-generated Swagger docs</li>
-      </ul>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/22Ferreira/api-auth-jwt">
-        <img src="https://img.shields.io/badge/View_repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <img src="https://img.shields.io/badge/status-building-00b4d8?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h3>🛡️ keycloak-sso-demo</h3>
-      <p>SSO with Keycloak and OAuth2 — Node.js · OpenID Connect</p>
-      <ul>
-        <li>Authorization Code flow with PKCE</li>
-        <li>Route protection by roles and scopes</li>
-        <li>Automatic token refresh</li>
-        <li>OpenID Connect integration</li>
-      </ul>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/22Ferreira/keycloak-sso-demo">
-        <img src="https://img.shields.io/badge/View_repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <img src="https://img.shields.io/badge/status-building-00b4d8?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>☕ spring-rest-api</h3>
-      <p>Professional CRUD with Spring Boot — Java · MySQL · Swagger</p>
-      <ul>
-        <li>Layered architecture (Controller → Service → Repository)</li>
-        <li>Pagination, sorting and validation</li>
-        <li>SpringDoc OpenAPI documentation</li>
-        <li>Bean Validation with error handling</li>
-      </ul>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/22Ferreira/spring-rest-api">
-        <img src="https://img.shields.io/badge/View_repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <img src="https://img.shields.io/badge/status-planned-555?style=flat-square"/>
-    </td>
-    <td width="50%">
-      <h3>📦 More coming soon...</h3>
-      <p>Building and documenting projects daily.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/status-in_progress-00b4d8?style=flat-square"/>
-    </td>
-  </tr>
+<tr>
+<td width="25%" valign="top">
+
+**🔐 api-auth-jwt**
+
+REST API with full JWT auth
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+✔ Register & login with bcrypt<br/>
+✔ Access + refresh token<br/>
+✔ Route protection middleware<br/>
+✔ Swagger UI docs
+
+![](https://img.shields.io/badge/●_Building-0d6efd?style=flat-square)
+[![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/api-auth-jwt)
+
+</td>
+<td width="25%" valign="top">
+
+**🛡️ keycloak-sso-demo**
+
+SSO with Keycloak + OAuth2
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white)
+
+✔ Auth Code + PKCE<br/>
+✔ Role & scope protection<br/>
+✔ Auto token refresh<br/>
+✔ OpenID Connect
+
+![](https://img.shields.io/badge/●_Building-0d6efd?style=flat-square)
+[![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/keycloak-sso-demo)
+
+</td>
+<td width="25%" valign="top">
+
+**☕ spring-rest-api**
+
+CRUD with Spring Boot
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+✔ Layered architecture<br/>
+✔ Pagination & Validation<br/>
+✔ SpringDoc OpenAPI<br/>
+✔ Error handling RFC 7807
+
+![](https://img.shields.io/badge/●_Planned-6c757d?style=flat-square)
+[![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/spring-rest-api)
+
+</td>
+<td width="25%" valign="top">
+
+**🗂️ nestjs-clean-api**
+
+NestJS with Clean Architecture
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+✔ Clean Architecture<br/>
+✔ Repository pattern<br/>
+✔ Guards & interceptors<br/>
+✔ Dockerized environment
+
+![](https://img.shields.io/badge/●_Planned-6c757d?style=flat-square)
+[![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/nestjs-clean-api)
+
+</td>
+</tr>
+<tr>
+<td width="25%" valign="top">
+
+**📊 django-rest-shop**
+
+E-commerce API with Django
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+✔ Products & orders API<br/>
+✔ Cart & checkout flow<br/>
+✔ Admin dashboard<br/>
+✔ DRF + Swagger
+
+![](https://img.shields.io/badge/●_Planned-6c757d?style=flat-square)
+[![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/django-rest-shop)
+
+</td>
+<td width="25%" valign="top">
+
+**🔔 notification-service**
+
+Microservice with RabbitMQ
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+✔ Async messaging<br/>
+✔ Email & push notifications<br/>
+✔ Dead letter queue<br/>
+✔ Docker Compose setup
+
+![](https://img.shields.io/badge/●_Planned-6c757d?style=flat-square)
+[![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/notification-service)
+
+</td>
+<td width="25%" valign="top">
+
+**🚀 fastapi-ms-gateway**
+
+API Gateway with FastAPI
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+✔ Microservices routing<br/>
+✔ Auth gateway<br/>
+✔ Rate limiting<br/>
+✔ OpenShift deployment
+
+![](https://img.shields.io/badge/●_Planned-6c757d?style=flat-square)
+[![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/fastapi-ms-gateway)
+
+</td>
+<td width="25%" valign="top">
+
+**🛒 spring-ecommerce-api**
+
+Full E-commerce with Spring Boot
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+✔ Product catalog API<br/>
+✔ Order management<br/>
+✔ Keycloak auth<br/>
+✔ CI/CD with GitHub Actions
+
+![](https://img.shields.io/badge/●_Planned-6c757d?style=flat-square)
+[![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/spring-ecommerce-api)
+
+</td>
+</tr>
 </table>
+</div>
 
 ---
 
 ## 📚 Learning Roadmap
 
-| Status | Topic |
-|--------|-------|
-| ✅ | REST APIs — FastAPI · Node.js · Spring Boot |
-| ✅ | Authentication — Keycloak · OAuth2 · JWT |
-| ✅ | Relational DBs — PostgreSQL · MySQL |
-| ✅ | NoSQL — MongoDB |
-| ✅ | Design Patterns · RESTful Architecture · SOLID |
-| ✅ | Git · GitHub · professional versioning |
-| 🔄 | NestJS · modular architecture |
-| 🔄 | Docker · containerization |
-| 🔄 | Microservices architecture |
-| 🔄 | OpenShift · cloud deployment |
-| ⬜ | Message brokers — RabbitMQ · Kafka |
-| ⬜ | CI/CD with GitHub Actions |
-| ⬜ | Kubernetes |
+```
+✅  REST APIs          FastAPI · Node.js · Spring Boot
+✅  Authentication     Keycloak · OAuth2 · JWT
+✅  Databases          PostgreSQL · MySQL · MongoDB
+✅  Design Patterns    SOLID · Clean Code · RESTful Architecture
+✅  Versioning         Git · GitHub
+
+🔄  NestJS             Modular architecture
+🔄  Docker             Containerization
+🔄  Microservices      Distributed systems
+🔄  OpenShift          Cloud deployment
+
+⬜  RabbitMQ / Kafka   Message brokers
+⬜  GitHub Actions     CI/CD pipelines
+⬜  Kubernetes         Orchestration
+```
 
 ---
 
 ## 💼 Experience
 
-| Role | Company | Period | Stack |
-|------|---------|--------|-------|
-| 🖥️ Web Dev Intern | Ministerio Publico do Para | 2023 – present | Python · Django · FastAPI · PostgreSQL · Git · REST · Design Patterns |
-| 🔧 IT Support Intern | Ministerio Publico do Para | 2022 – 2023 | Networks · Hardware · Automation Scripts · Asset Management · AD |
+**Ministerio Publico do Para — Web Dev Intern** · `2023 – present`
+> Python · Django · FastAPI · PostgreSQL · REST APIs · Design Patterns · Git
+
+**Ministerio Publico do Para — IT Support Intern** · `2022 – 2023`
+> Networks · Hardware maintenance · Automation scripts · Asset management
 
 ---
 
@@ -207,15 +314,12 @@ stack:
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-ferreira-559587236)
-[![Gmail](https://img.shields.io/badge/Gmail-Send_message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=100&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-ferreira-559587236)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Send_message-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=120&section=footer" width="100%"/>
