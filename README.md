@@ -2,8 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=Jose%20Ferreira&fontSize=50&fontColor=fff&fontAlignY=40&desc=Backend%20Engineer%20%7C%20REST%20API%20Specialist&descSize=18&descAlignY=62&descColor=cfe2ff" width="100%"/>
 
-### Hi there 👋 I'm José — a backend developer from Brazil
-#### I build secure, scalable and well-documented REST APIs
+<br/>
+
+> *"Escolha um trabalho que você ame e não terá que trabalhar um único dia em sua vida."*
+> — Confúcio
 
 <br/>
 
