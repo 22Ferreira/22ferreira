@@ -23,7 +23,7 @@
 
 ```json
 {
-  "name":      "Jose Ferreira",
+  "name":      "José Ferreira",
   "role":      "Backend Engineer | REST API Specialist",
   "education": "Information Systems — in progress",
   "company":   "Ministerio Publico do Para — Web Dev Intern",
