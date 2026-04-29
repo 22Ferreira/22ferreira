@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-ferreira-559587236)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jose.22.vilhena@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira)
 
@@ -119,7 +119,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
 **🔐 api-auth-jwt**
 
@@ -138,7 +138,7 @@ REST API with full JWT auth
 [![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/api-auth-jwt)
 
 </td>
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
 **🛡️ keycloak-sso-demo**
 
@@ -157,117 +157,20 @@ SSO with Keycloak + OAuth2
 [![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/keycloak-sso-demo)
 
 </td>
-<td width="25%" valign="top">
-
-**☕ spring-rest-api**
-
-CRUD with Spring Boot
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-✔ Layered architecture<br/>
-✔ Pagination & Validation<br/>
-✔ SpringDoc OpenAPI<br/>
-✔ Error handling RFC 7807
-
-![](https://img.shields.io/badge/●_Planned-6c757d?style=flat-square)
-[![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/spring-rest-api)
-
-</td>
-<td width="25%" valign="top">
-
-**🗂️ nestjs-clean-api**
-
-NestJS with Clean Architecture
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-✔ Clean Architecture<br/>
-✔ Repository pattern<br/>
-✔ Guards & interceptors<br/>
-✔ Dockerized environment
-
-![](https://img.shields.io/badge/●_Planned-6c757d?style=flat-square)
-[![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/nestjs-clean-api)
-
-</td>
-</tr>
-<tr>
-<td width="25%" valign="top">
-
-**📊 django-rest-shop**
-
-E-commerce API with Django
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-✔ Products & orders API<br/>
-✔ Cart & checkout flow<br/>
-✔ Admin dashboard<br/>
-✔ DRF + Swagger
-
-![](https://img.shields.io/badge/●_Planned-6c757d?style=flat-square)
-[![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/django-rest-shop)
-
-</td>
-<td width="25%" valign="top">
-
-**🔔 notification-service**
-
-Microservice with RabbitMQ
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-✔ Async messaging<br/>
-✔ Email & push notifications<br/>
-✔ Dead letter queue<br/>
-✔ Docker Compose setup
-
-![](https://img.shields.io/badge/●_Planned-6c757d?style=flat-square)
-[![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/notification-service)
-
-</td>
-<td width="25%" valign="top">
-
-**🚀 fastapi-ms-gateway**
-
-API Gateway with FastAPI
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-✔ Microservices routing<br/>
-✔ Auth gateway<br/>
-✔ Rate limiting<br/>
-✔ OpenShift deployment
-
-![](https://img.shields.io/badge/●_Planned-6c757d?style=flat-square)
-[![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/fastapi-ms-gateway)
-
-</td>
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 
 **⏱️ acesso-ponto**
 
-Sistema de controle de ponto
+Time & attendance control system
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-✔ Registro de ponto<br/>
-✔ Autenticação JWT + bcrypt<br/>
-✔ Painel de admin<br/>
-✔ Relatório de horas
+✔ Clock-in / clock-out tracking<br/>
+✔ JWT + bcrypt authentication<br/>
+✔ Admin dashboard<br/>
+✔ Hours worked report
 
 ![](https://img.shields.io/badge/●_Live-28a745?style=flat-square)
 [![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/acesso-ponto)
@@ -316,7 +219,7 @@ Sistema de controle de ponto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/josé-ferreira-559587236)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Send_message-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Send_message-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jose.22.vilhena@gmail.com)
 
 </div>
 
