@@ -256,21 +256,21 @@ API Gateway with FastAPI
 </td>
 <td width="25%" valign="top">
 
-**🛒 spring-ecommerce-api**
+**⏱️ acesso-ponto**
 
-Full E-commerce with Spring Boot
+Sistema de controle de ponto
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-✔ Product catalog API<br/>
-✔ Order management<br/>
-✔ Keycloak auth<br/>
-✔ CI/CD with GitHub Actions
+✔ Registro de ponto<br/>
+✔ Autenticação JWT + bcrypt<br/>
+✔ Painel de admin<br/>
+✔ Relatório de horas
 
-![](https://img.shields.io/badge/●_Planned-6c757d?style=flat-square)
-[![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/spring-ecommerce-api)
+![](https://img.shields.io/badge/●_Live-28a745?style=flat-square)
+[![](https://img.shields.io/badge/View-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/22Ferreira/acesso-ponto)
 
 </td>
 </tr>
